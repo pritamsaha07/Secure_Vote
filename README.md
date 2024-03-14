@@ -21,11 +21,11 @@ Copy the above address then navigate to src ->App.js and then on line no 24 repl
 Frontend Setup
 Clone the repository:
 ```bash
-git clone <https://github.com/pritamsaha07/Secure_Vote>
+git clone https://github.com/pritamsaha07/Secure_Vote
 ```
 Navigate to the project directory:
 ```bash
-cd voting
+cd Secure_Vote
 ```
 Install dependencies:
 ```bash
