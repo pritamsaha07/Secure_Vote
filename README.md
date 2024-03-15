@@ -7,7 +7,7 @@ This decentralized voting application allows users to conduct elections on the E
 Before running the application, ensure you have the following installed:
 
 - Node.js
-- Metamask browser extension
+- Metamask browser extension (Make sure you have selected the Ethereum Sepolia network)
 - Ethereum wallet with test Ether (for interacting with the Sepolia test network)
 - Hashgraph account (for submitting voting messages)
 
