@@ -21,7 +21,7 @@ function App() {
   const [isConnected, setIsconnected] = useState(false)
 
   const connectWallet = async () => {
-    const contractAddress = "0x9f95c58edccbaCD7Dd32C857c76fd777377CE98f";
+    const contractAddress = "0x1eD8f60D247CC2f7b4aD17676CbB390b957af618";
     const contractAbi=Abi;
     
     try {
