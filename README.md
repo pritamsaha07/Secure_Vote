@@ -12,11 +12,6 @@ Before running the application, ensure you have the following installed:
 - Hashgraph account (for submitting voting messages)
 
 
-```bash
-0x1eD8f60D247CC2f7b4aD17676CbB390b957af618
-```
-Copy the above address then navigate to src ->App.js and then on line no 24 replace the existing contract address with the copied address.
-
 
 Frontend Setup
 Clone the repository:
